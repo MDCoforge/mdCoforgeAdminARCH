@@ -1,0 +1,14 @@
+fileVersion: 1
+id: "44"
+mappingDefinitions:
+  SOURCE:
+    database: SNOWFLAKE_SAMPLE_DATA
+    schema: TPCH_SF1
+  SRC:
+    database: ARCH_POC_MD
+    schema: MD_ARCH_ENV_DEV
+  TARGET:
+    database: ARCH_POC_MD
+    schema: PUBLIC
+name: MD_ARCH_ENV_DEV
+type: Environment
