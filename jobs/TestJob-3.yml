@@ -1,0 +1,6 @@
+excludeSelector: ""
+fileVersion: 1
+id: "3"
+includeSelector: "{ location: \"TARGET\" name: \"FCT_LINEITEM\" } OR { location: \"TARGET\" name: \"FCT_CUSTOMER\" }"
+name: TestJob
+type: Job
